@@ -1,5 +1,7 @@
 # Meat - Angular Application
 
+Sistema de cadastro de restaurantes.
+
 Este respositório contém a implementação da aplicação feita no curso de Angular. O bundle para começar o seu projeto está [aqui].
 
 [aqui]: https://github.com/cod3rcursos/meat-app-starter
